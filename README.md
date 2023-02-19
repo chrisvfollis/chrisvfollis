@@ -9,5 +9,6 @@ the constraints of the project.
 * I'm studying **data science** in Python from Bloom Institute of Technology.
 * I'm currently a STEM student and the **president of the science club** at Lake Tahoe Community
 College, and plan to transfer to an engineering-focused university.
+* I read science & engineering textbooks like novels.
 * How to reach me: [LinkedIn](https://www.linkedin.com/in/chris-follis) | [chrisvfollis@gmail.com](mailto:chrisvfollis@gmail.com)
   
