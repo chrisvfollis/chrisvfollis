@@ -1,7 +1,7 @@
 ## Hi, I'm Chris.
 
 I'm interested in science & engineering in business contexts. I have a passion for automation,
-problem solving, and using data to uncover patterns/insights & optimize processes.
+problem solving, and using data to uncover patterns & optimize processes.
 
 * I'm spearheading a data initiative for Xtravel Suspension. This involves analyzing
 oscilloscope data from performance tests recorded onto a Raspberry Pi-based **solution I engineered** to satisfy
